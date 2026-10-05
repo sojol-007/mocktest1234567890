@@ -2,5 +2,7 @@
   "name": "Smart Escape - Interactive Evacuation Route Simulator",
   "description": "Smart Escape is an interactive emergency evacuation route simulator using strict Dijkstra graph routing, hazard toggling, bilingual support, and real-time visualization.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
